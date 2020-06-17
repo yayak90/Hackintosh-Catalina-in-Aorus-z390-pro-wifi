@@ -1,5 +1,5 @@
 # Hackintosh-Catalina-in-Aorus-z390-pro-wifi
-Hackintosh Catalina in Aorus z390 pro wifi + intel core i9 9900k Ram DDR4 2666
+Hackintosh Catalina in Aorus z390 pro wifi + intel core i9 9900k Ram 16gb DDR4 2666 Mhz
 
 Succes install hackintosh on gigabyte z390 Aorus pro wifi
 Catalina 10.15.5
