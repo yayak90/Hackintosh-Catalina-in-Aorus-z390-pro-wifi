@@ -19,7 +19,7 @@ Specifications :
 - Monitor Resolution : Full HD 1080P
 - Boot Mode : UEFI
 - Clover Version : r5119
-- OS Version : macOS Catalina 10.15.2 (19C57)
+- OS Version : macOS Catalina 10.15.5
 
 Work??
 - QE/CI of MSI Radeon RX5700. XT
